@@ -1,57 +1,106 @@
-# MyProgrammingPortfolio
-📌 Project Title : Grade Calculator – C++ Program
+💻 MyProgrammingPortfolio
 
-📖 Description
+MyProgrammingPortfolio is a curated collection of C++ programs showcasing my foundational understanding of programming concepts such as arrays, structures, conditional logic, and input/output operations.
+This repository reflects my hands-on learning approach, code consistency, and steady progression in C++ development.
 
-This is a simple C++ Grade Calculator program that takes a student’s marks (0–100) as input and displays the grade based on predefined criteria.
-It is designed for beginners learning basic programming concepts such as conditional statements and input/output.
+📁 Project Structure
 
-🚀 Features
+Each source file focuses on a specific programming concept:
 
-Takes marks as input
+Grade Calculator.cpp
+Calculates grades based on user-entered marks using conditional statements.
 
-Validates marks (must be between 0–100)
+marksheet.cpp
+Generates a basic marksheet and assigns grades logically.
 
-Displays grade according to percentage
+array 1.cpp
+Demonstrates array initialization and traversal using loops.
 
-Simple and beginner-friendly
+array 2.cpp
+Accepts user input into an array and displays stored values.
 
-🧮 Grading Criteria
-Marks Range	Grade
-90–100	A+
-80–89	A
-70–79	B
-60–69	C
-50–59	D
-40–49	E
-Below 40	F (Fail)
-🧾 How to Run the Program
-1. Save the Program
+structure.cpp
+Implements a struct to store personal details and perform input/output operations.
 
-Save the C++ code as:
+🧠 Skills & Concepts Demonstrated
 
-grade_calculator.cpp
+C++ fundamentals & syntax
 
-2. Compile
+User input/output (cin, cout)
 
-Using GCC or MinGW:
+Arrays and loop control
 
-g++ grade_calculator.cpp -o grade
+Structures (struct)
 
-3. Run
-./grade
+Conditional logic
 
-📂 File Structure
-MyProgrammingPortfolio/
-│── grade_calculator.cpp
-│── README.md
+Problem-solving & logic building
 
-✨ Future Enhancements
+🛠️ How to Compile & Run
+git clone https://github.com/namanartist/MyProgrammingPortfolio.git
+cd MyProgrammingPortfolio
+g++ filename.cpp -o output
+./output
 
-Add multiple subject input
+🗺️ Project Roadmap
 
-Show average marks
+This roadmap shows how the project will evolve over time:
 
-Add grade explanation (remarks)
+✅ Completed
 
-Add GUI interface
+Basic C++ programs
+
+Arrays and structures
+
+Grade and marksheet logic
+
+Console-based input/output
+
+🔄 In Progress
+
+Code optimization and cleanup
+
+Adding comments for readability
+
+Better variable naming conventions
+
+🚀 Planned
+
+Functions and modular programming
+
+File handling (read/write marksheets)
+
+Object-Oriented Programming (OOP)
+
+Classes & objects
+
+Constructors
+
+Encapsulation
+
+STL basics (vectors, maps)
+
+Mini projects (Student Management System)
+
+🎯 Why This Project Matters (Resume Section)
+
+Demonstrates strong programming fundamentals
+
+Shows consistent learning and version control usage
+
+Highlights ability to write clean, logical C++ code
+
+Reflects hands-on experience with real programming problems
+
+Maintained on GitHub with incremental improvements
+
+Ideal as a beginner-to-intermediate C++ portfolio for internships, coursework, and interviews.
+
+👨‍💻 Author
+
+Naman Lahariya
+Aspiring Software Developer | C++ Enthusiast
+Learning by building, improving by practicing.
+
+⭐ If you’re reviewing this repo:
+Feel free to explore commits to see my learning progression over time.
